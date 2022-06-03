@@ -1,0 +1,18 @@
+html {
+    color: white;
+    background-color: beige;
+}
+
+div {
+    color: white;
+
+}
+
+p {
+    color: red;
+}
+
+.backstory{
+    color: darkred;
+    font-family: "Goudy Old Style";
+}
